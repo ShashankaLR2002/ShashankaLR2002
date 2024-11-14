@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1ODkwOTcsIm5iZiI6MTczMTU4ODc5NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDEyNTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhYTQ4ZTU3OTUzZDllYzJmMzNjMTQ3MjZkODZmZDk3MjNmNmNjYTY0ODcyMWM1ZjBiMmE4MWIyM2E3MWE2MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EOeespZoJTZAt4FLu86fo1LM6I1ozODbTZQEjzgyjyM" alt="Banner" width="1000" height="250">
-
 <h1 align="center">Hi 👋, I'm Shashanka L R</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
